@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "admin001",
+    "Nombre": "Carlos Díaz",
+    "Contrasena": "5uZFlpRtkhA4awZDLlH3mQK4tXgJMLfGDoTgDGUU4TA=",
+    "Salt": "tF8+WnJX+NIRJQ9ZsAAJmA==",
+    "Rol": "Admin"
+  },
+  {
+    "Id": "admin002",
+    "Nombre": "Angel Ambrosio",
+    "Contrasena": "skt4K+eD1b2EG2O9p4ox2Aj6A0E8osgU2bn6NfRcUp8=",
+    "Salt": "R43q3rkChKZ8YQvOq8xFvQ==",
+    "Rol": "Admin"
+  },
+  {
+    "Id": "admin003",
+    "Nombre": "Grisel Morales",
+    "Contrasena": "2Z2E2DhHsygmyLTXkTt2PtVwc3MwbCDeVPlnHtbD98o=",
+    "Salt": "rj6jHg5by6Th1idcpZ0+3A==",
+    "Rol": "Admin"
+  },
+  {
+    "Id": "admin004",
+    "Nombre": "Jenifer Miranda",
+    "Contrasena": "HYpETGfW6vEnRp02uE0+/R2aTUKaTxhzythk0tWk6tY=",
+    "Salt": "U2jN6jz9X3mpxvlCvdKcYQ==",
+    "Rol": "Admin"
+  },
+  {
+    "Id": "admin005",
+    "Nombre": "Laura Cano",
+    "Contrasena": "bU2aPoTy5mfq6Gpb8nG6t05kmLyqvcoYAAH2xJfJDlA=",
+    "Salt": "rSMz/5nDR9bT2tI0EbMC8w==",
+    "Rol": "Admin"
+  }
+]

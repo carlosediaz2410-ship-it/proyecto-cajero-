@@ -1,0 +1,14 @@
+[
+  {
+    "NumeroCuenta": "10001",
+    "Propietario": "u001",
+    "Saldo": 1500.00,
+    "Historial": []
+  },
+  {
+    "NumeroCuenta": "99999",
+    "Propietario": "admin",
+    "Saldo": 10000.00,
+    "Historial": []
+  }
+]
